@@ -1,0 +1,50 @@
+
+.book-list{
+   width:500px;
+   margin:0 auto 
+}
+form{
+  font-size:20px; 
+} 
+h2{
+font-size:50px;
+}
+input{
+width:500px;
+height: 30px;
+}
+button{
+    width:510px;
+    height:30px;
+    margin-top:20px;
+    font-size:20px;
+    font-weight: 500;
+    background-color: darkblue;
+    color:white;
+}
+h4{
+    margin-bottom: 5px;
+}
+
+table, th, td {
+    border:1px solid black;
+   
+  }
+  table{
+      width:300px;
+  }
+
+  .success{
+      width:500px;
+      height:30px;
+      border:1px solid black;
+      background-color:green;
+      display: none;
+  }
+  .error{
+      width:500px;
+      height:30px;
+      border:1px solid black;
+      background-color:red;
+      display: none;
+  }
